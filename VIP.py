@@ -12,7 +12,7 @@ apihelper.proxy = {'https': 'http://proxy.server:3128'}
 
 # 3. KONFIGURASI VARIABEL
 ADMIN_USERNAME = "pikipurwanto"
-TRADE_LINK = "LINK_MINI_APPS_KAMU"
+TRADE_LINK = "https://one.exnessonelink.com/a/trvppueskc"
 FREE_SIGNAL_LINK = "https://t.me/pejuang_daytrading"
 QRIS_IMAGE = "QRPDTFX.PNG"  # Sudah disesuaikan dengan yang ada di GitHub
 
