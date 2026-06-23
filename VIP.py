@@ -5,7 +5,7 @@ TOKEN = "8068878213:AAGZjnpqZFyoL9398BZ9zE6c8wpE7vJpVCw"
 ADMIN_USERNAME = "pikipurwanto"
 TRADE_LINK = "LINK_MINI_APPS_KAMU"
 FREE_SIGNAL_LINK = "https://t.me/pejuang_daytrading"
-QRIS_IMAGE = "/root/qris.png"
+QRIS_IMAGE = "QRPDTFX.PNG""
 
 bot = telebot.TeleBot(TOKEN)
 
